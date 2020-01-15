@@ -1,0 +1,16 @@
+learn    0
+cutoff   1.0e-12
+jtarget  1.0e-06
+maxiter  10000000
+step     1.0e-08
+mmax     1000
+m        25
+kmax     751
+n1       220
+n2       450
+itrain   04
+conv     0
+jprint   1
+rcm      1
+varystep 1
+percent  1

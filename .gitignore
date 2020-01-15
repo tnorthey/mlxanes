@@ -1,0 +1,24 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!README.md
+!*.f95
+!setup.txt
+!compile_mlxanes.sh
+!compile_mlxanes_openmp.sh
+!x
+# etc...
+
+# ...even if they are in subdirectories
+#!*/
+
+# if the files to be tracked are in subdirectories
+!*/train00/*
+!*/results/*
+!*/latex/*
+!*/xyz/*
+!*/predicted/*
+#!*/a/b/c/*
+
